@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kamigaoka HS/神ガ丘高校.md",
+                "file": "(overview/夏のデジャヴ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神ガ丘高校"
+              "title": "夏のデジャヴ"
             }
           }
         ],
@@ -110,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kamigaoka HS/神ガ丘高校.md",
+                "file": "(overview/夏のデジャヴ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "神ガ丘高校からのアウトゴーイングリンク"
+              "title": "夏のデジャヴからのアウトゴーイングリンク"
             }
           },
           {
@@ -207,12 +207,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9c46c1961151063",
+  "active": "a30a83714b971972",
   "lastOpenFiles": [
-    "(outline/あらすじアイデア.md",
-    "kamigaoka HS/神ガ丘高校.md",
-    "kamigaoka HS",
+    "kamigaoka HS/多田カズキ.md",
     "(overview/夏のデジャヴ.md",
+    "kamigaoka HS",
+    "location/神ガ丘高校.md",
+    "(outline/あらすじアイデア.md",
+    "location",
     "(outline",
     "202502131054.md",
     "(overview",
