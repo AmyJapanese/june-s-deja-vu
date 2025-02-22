@@ -210,7 +210,8 @@
     "location/important": 1,
     "kamigaoka": 75,
     "kamigaoka/student": 1,
-    "kamigaoka/normal": 2
+    "kamigaoka/normal": 2,
+    "hero/common": 2
   },
   "_version": 3
 }
