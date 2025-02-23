@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(overview/夏のデジャヴ.md",
+                "file": "kamigaoka HS/多田カズキ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "夏のデジャヴ"
+              "title": "多田カズキ"
             }
           }
         ]
@@ -109,17 +109,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(overview/夏のデジャヴ.md",
+                "file": "kamigaoka HS/多田カズキ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "夏のデジャヴへのバックリンク"
+              "title": "多田カズキへのバックリンク"
             }
           },
           {
@@ -132,8 +132,7 @@
               "title": "アクティブでなくなったプラグイン"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a84036df21cdfdb5",
@@ -195,9 +194,10 @@
   },
   "active": "3d8f3f69bc52546d",
   "lastOpenFiles": [
-    "(template/レギュメン用プロフィール.md",
     "(overview/夏のデジャヴ.md",
     "kamigaoka HS/多田カズキ.md",
+    "(template/空白の設定.md",
+    "(template/レギュメン用プロフィール.md",
     "kamigaoka HS",
     "location/神ガ丘高校.md",
     "(outline/あらすじアイデア.md",
