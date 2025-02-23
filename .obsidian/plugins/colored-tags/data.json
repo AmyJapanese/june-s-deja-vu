@@ -211,7 +211,12 @@
     "kamigaoka": 75,
     "kamigaoka/student": 1,
     "kamigaoka/normal": 2,
-    "hero/common": 2
+    "hero/common": 2,
+    "shapeshift": 76,
+    "shapeshift/heroine": 1,
+    "heroine": 77,
+    "McGuffin": 78,
+    "McGuffin/heroine": 1
   },
   "_version": 3
 }
