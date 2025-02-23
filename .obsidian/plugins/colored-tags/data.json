@@ -216,7 +216,9 @@
     "shapeshift/heroine": 1,
     "heroine": 77,
     "McGuffin": 78,
-    "McGuffin/heroine": 1
+    "McGuffin/heroine": 1,
+    "importantA": 79,
+    "rankA": 80
   },
   "_version": 3
 }
