@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "location/神ガ丘高校.md",
+                "file": "kamigaoka HS/鹿野エレナ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神ガ丘高校"
+              "title": "鹿野エレナ"
+            }
+          },
+          {
+            "id": "f9bfbdbe9c5f4072",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kamigaoka HS/森田モリオ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "森田モリオ"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "location/神ガ丘高校.md",
+                "file": "kamigaoka HS/森田モリオ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "神ガ丘高校からのアウトゴーイングリンク"
+              "title": "森田モリオからのアウトゴーイングリンク"
             }
           },
           {
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kamigaoka HS/多田カズキ.md",
+                "file": "kamigaoka HS/森田モリオ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "多田カズキへのバックリンク"
+              "title": "森田モリオへのバックリンク"
             }
           },
           {
@@ -175,7 +189,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -207,17 +221,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "154c917bf901d1ec",
+  "active": "b9c46c1961151063",
   "lastOpenFiles": [
+    "location/神ガ丘高校.md",
+    "(overview/夏のデジャヴ.md",
+    "kamigaoka HS/森田モリオ.md",
     "kamigaoka HS/鹿野エレナ.md",
     "kamigaoka HS/多田カズキ.md",
     "202502231341.md",
-    "(overview/夏のデジャヴ.md",
     "(outline/あらすじアイデア.md",
     "(template/空白の設定.md",
     "(template/レギュメン用プロフィール.md",
     "kamigaoka HS",
-    "location/神ガ丘高校.md",
     "location",
     "(outline",
     "202502131054.md",

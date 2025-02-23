@@ -218,7 +218,12 @@
     "McGuffin": 78,
     "McGuffin/heroine": 1,
     "importantA": 79,
-    "rankA": 80
+    "rankA": 80,
+    "rank": 81,
+    "rank/A": 1,
+    "rank/S": 2,
+    "mentor/troublemaker": 10,
+    "rank/S-": 3
   },
   "_version": 3
 }
