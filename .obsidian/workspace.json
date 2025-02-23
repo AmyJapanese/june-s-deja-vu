@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kamigaoka HS/鹿野エレナ.md",
+                "file": "kamigaoka HS/多田カズキ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "鹿野エレナ"
+              "title": "多田カズキ"
             }
           }
         ],
@@ -110,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kamigaoka HS/鹿野エレナ.md",
+                "file": "kamigaoka HS/多田カズキ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "鹿野エレナからのアウトゴーイングリンク"
+              "title": "多田カズキからのアウトゴーイングリンク"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kamigaoka HS/鹿野エレナ.md",
+                "file": "kamigaoka HS/多田カズキ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "鹿野エレナへのバックリンク"
+              "title": "多田カズキへのバックリンク"
             }
           },
           {
@@ -209,9 +209,10 @@
   },
   "active": "154c917bf901d1ec",
   "lastOpenFiles": [
-    "(overview/夏のデジャヴ.md",
     "kamigaoka HS/鹿野エレナ.md",
+    "202502231341.md",
     "kamigaoka HS/多田カズキ.md",
+    "(overview/夏のデジャヴ.md",
     "(outline/あらすじアイデア.md",
     "(template/空白の設定.md",
     "(template/レギュメン用プロフィール.md",
