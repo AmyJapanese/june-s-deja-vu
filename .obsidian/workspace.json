@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kamigaoka HS/鹿野エレナ.md",
+                "file": "location/神ガ丘高校.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "鹿野エレナ"
+              "title": "神ガ丘高校"
             }
           }
         ],
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kamigaoka HS/鹿野エレナ.md",
+                "file": "location/神ガ丘高校.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "鹿野エレナからのアウトゴーイングリンク"
+              "title": "神ガ丘高校からのアウトゴーイングリンク"
             }
           },
           {
@@ -223,11 +223,11 @@
   },
   "active": "f9bfbdbe9c5f4072",
   "lastOpenFiles": [
-    "location/神ガ丘高校.md",
-    "kamigaoka HS/森田モリオ.md",
     "(overview/夏のデジャヴ.md",
-    "kamigaoka HS/鹿野エレナ.md",
+    "kamigaoka HS/森田モリオ.md",
     "kamigaoka HS/多田カズキ.md",
+    "kamigaoka HS/鹿野エレナ.md",
+    "location/神ガ丘高校.md",
     "202502231341.md",
     "(outline/あらすじアイデア.md",
     "(template/空白の設定.md",
